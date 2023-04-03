@@ -5,20 +5,24 @@
 - All pull request must be reviewed before merging.
 - Any changes in the project should happen after discussing it.
 - Anyone needs help can send on slack or create an issue.
+- 15 minutes small check-up meeting everyday at 21h.
+- discuss in each meeting: what was done today, review it and plans for
+  tomorrow.
+
 <!-- any general rules you'd like to set for your group? -->
 
 ---
 
 ## Communication Schedule
 
-| Day       |     How     | The topic of discussion   |
-| --------- | :---------: | ------------------------- |
-| Monday    |    slack    | our availabilities        |
-| Tuesday   | slack/zoom  | completing planning files |
-| Wednesday | slack/zoom  | HTML & CSS files          |
-| Thursday  | slack/ zoom | Reviewing work            |
-| Friday    | slack/ zoom | finalizing project        |
-| Sunday    | slack/ zoom | class                     |
+| Day       |     How     | The topic of discussion         |
+| --------- | :---------: | ------------------------------- |
+| Monday    | slack/ zoom | Our availabilities/ constraints |
+| Tuesday   | slack/zoom  | completing planning files       |
+| Wednesday | slack/zoom  | HTML & CSS files                |
+| Thursday  | slack/ zoom | Reviewing work                  |
+| Friday    | slack/ zoom | Finalizing project              |
+| Sunday    | slack/ zoom | class                           |
 
 ## Communication Channels
 
