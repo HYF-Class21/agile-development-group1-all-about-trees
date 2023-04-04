@@ -1,10 +1,12 @@
-# Name of project
+# All About Trees
 
-
+> All about Trees is about caring about our planet and trees are the most
+> important thing for our environment. Its our OXYGEN resource!! Here you can
+> get all information about trees and how to keep them alive.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [All About Trees](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
