@@ -1,6 +1,6 @@
 # Name of project
 
-> A longer description
+
 
 ## Table of contents
 
