@@ -20,8 +20,13 @@ create your own!
      - [ ] As a forest ranger I want to have a print button on the top of the information page so that I can print out the page .
       - _Given that the user want to have a physical version of the information found on this site, when the user click the print button on the top right of the page then the print funtion page will show up._
 
-- [ ] As a forest ranger I want to be able to check the latest news about environment or tips for plants on the top of the page so that I can keep updated with these topics. 
-- _Given that the user want to be updated with the latest news about environment, when the user open the page then he should be ble to see all the latest news on the top of the screen and be redirected when he clicks on a certain link._
+- [ ] As a forest ranger I want to be able to check the latest news about
+      environment or tips for plants on the top of the page so that I can keep
+      updated with these topics.
+- _Given that the user want to be updated with the latest news about
+  environment, when the user open the page then he should be ble to see all the
+  latest news on the top of the screen and be redirected when he clicks on a
+  certain link._
 
 ## Should-Haves
 
