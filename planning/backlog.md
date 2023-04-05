@@ -40,6 +40,8 @@ create your own!
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a Forest Ranger I want to add content to the site so that other users can have an idea of what species of trees can be
+encountered at my park.
+
+  - Given that the user wants to share their own content to the site. When they drag and drop files into a designated 'share your content' area, they can also give it tags and descriptions to better index it for other users.
+
