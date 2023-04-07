@@ -10,9 +10,10 @@ All about trees is for many persons including
 
 ## Their Role
 
-## David
+## Ecologist
 
-- **Bio**: David is an ecologyst who is specialized in rare trees.
+- **Bio**: David is an ecologist who is specialized in rare trees. He has
+  experience of 10 years. Specialized on threatened trees.
 - **Needs/Goals**: He needs to have a more organized data and information about
   trees in one place.
 - **Frustrations**: Spent a lot of time searching for reliable information
@@ -26,7 +27,7 @@ All about trees is for many persons including
 
 <!-- more personas ... -->
 
-## Mary
+## Environmental activist
 
 - **Bio**: Mary is an environmental activist, she is interested in all the
   movements concerning global warming and helping the planet.
@@ -40,15 +41,15 @@ All about trees is for many persons including
   environment. she found All about trees an excellent platform to increase
   awareness about importance of the trees.
 
-## Luke
+## Force ranger
 
 - **Bio**: Luke is a forest ranger. He has been working in this job for 7 years.
-- **Needs/Goals**: Luke wants to learn more about different types of trees and
+- **Needs/Goals**: user wants to learn more about different types of trees and
   how they change between seasons to better preserve them.
-- **Frustrations**: He works at park and visitors don;t have any information
+- **Frustrations**: He works at park and visitors don't have any information
   about trees and how to protect them.
-- **Scenario 1**: after working in the park for many years, Luke is looking for
-  a fun way to teach visitors about different types of trees and how to care and
-  protect the parc and all the plants on it. Luke think All about trees will
+- **Scenario 1**: after working in the park for many years, he is looking for a
+  fun way to teach visitors about different types of trees and how to care and
+  protect the parc and all the plants on it. He thinks "All About Trees" will
   provide required information regarding this matter and he can find links to
   share it with other visitors in the park.
