@@ -5,19 +5,28 @@
 <!-- ## User Story Dependencies
 
 [Story Dependency Diagram](https://excalidraw.com/)
+-->
 
 ---
 
 ## WIREFRAME
 
-![wireframe]() -->
+### color codes
 
----
+- Must have : Red
+- Should have : Blue
+- Could have: Orange
+
+![Wireframe](../public/wireframe.png)
 
 ## 0.Setup
 
-- ...
-- ...
+- Create a repository
+- Clone the repository
+- Create a project board
+- Complete the planing files
+- Complete HTML file
+- Link CSS file to the HTML
 
 ---
 
