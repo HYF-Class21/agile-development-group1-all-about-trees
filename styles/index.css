@@ -1,1 +1,11 @@
 @import url("./something.css");
+
+/* main section style START */
+.fascinating-words {
+  font-family: fantasy;
+}
+
+.interesting-things {
+  list-style-type: square;
+}
+ /* main section style END  */
