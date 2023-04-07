@@ -1,5 +1,9 @@
 # All About Trees
 
+All About Trees is a website were you can find all related information to trees,
+their different type, threatened trees, how they affect our lives, and most
+important how to protect them.
+
 ---
 
 <!-- ## User Story Dependencies
