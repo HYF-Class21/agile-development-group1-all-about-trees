@@ -17,44 +17,39 @@ create your own!
     looking for when he clicks on the navbar then a organized list of links will
     show up._
 
-- [ ] As an environmental activist I want to have share buttons at the bottom of
-      the page that link to different social medias so that I can share certain
-      information from this page to the public.
+  - [ ] As an environmental activist I want to have share buttons at the bottom
+        of the page that link to different social medias so that I can share
+        certain information from this page to the public.
+  - _Given that the user wants to access the social media related to the site,
+    when the user clicks any of the buttons at the bottom of the page then it
+    gets redirected into one of the sites linked to it._
 
-  - _Given that the user want to share the information/news found from our page,
-    when the user click the share button at the bottom of the page then they
-    should be able to share the info they want to the selected social media._
-
-- [ ] As a forest ranger I want to have a print button on the top of the
-      information page so that I can print out the page.
-
-  - _Given that the user want to have a physical version of the information
-    found on this site, when the user click the print button on the top right of
-    the page then the print funtion page will show up._
-
-- [ ] As a forest ranger I want to be able to check the latest news about
-      environment or tips for plants on the top of the page so that I can keep
-      updated with these topics.
-  - _Given that the user want to be updated with the latest news about
-    environment, when the user open the page then he should be ble to see all
-    the latest news on the top of the screen and be redirected when he clicks on
-    a certain link._
+  - [ ] As a forest ranger I want to have information on text so i can read more
+        about the content of the site.
+  - _Given that the user want to read information found on this site, when the
+    user opens the site it's welcomed by paragraphs on the body of the page._
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user I want to have a site with an nice look so that I can have a
+      nice experience browsing it.
+
+  - \_Given that the user wants an nice frontend view, when the user opens the
+    site it's welcomed by the trees images beside the title.
+
+- [ ] As a user I want to have a site with more information about trees so that
+      I can have a nice experience browsing it.
+  - \_Given that the user wants to have more information, when the user see the
+    main contain, they will find a sidebar with additional information.
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a Forest Ranger I want to add content to the site so that other users
-      can have an idea of what species of trees can be encountered at my park.
-
-  - Given that the user wants to share their own content to the site. When they
-    drag and drop files into a designated 'share your content' area, they can
-    also give it tags and descriptions to better index it for other users.
+- [ ] As a user I want to have a site with an interesting look so that i can
+      have a nice experience browsing it.
+  - \_Given that the user wants an unique experience when browsing the site then
+    the images at each side of the title have animations when you hover over
+    them.
