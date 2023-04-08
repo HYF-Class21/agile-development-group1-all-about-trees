@@ -1,10 +1,21 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+We decided to have a simple page, so we haven't decided on the colors and styles
+but we will add them later. For the moment, we are trying to copy the example
+site with reverse engineering.
+
+- Red area - must have
+- Blue area - should have
+- Yellow area - could have
+
+## Elements
+
+- Header
+- Navbar
+- Main section
+- Footer
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
-
-![wireframe](./wireframe.svg)
+![Example tree site](https://talmurshidi.github.io/ABT/)
+![Wireframe](./wireframe-tree.png)
