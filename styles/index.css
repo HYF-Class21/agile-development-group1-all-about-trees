@@ -12,8 +12,8 @@
 /* main section style END  */
 
 /* nav bar style START */
-.bottom-divider {
-  border-style: none none solid none;
+.top-divider {
+  border-style: solid none none none;
 }
 
 .spaced-items {
@@ -24,4 +24,5 @@
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
 /* nav bar style END */
