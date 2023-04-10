@@ -9,7 +9,7 @@
 
 > these are necessary for basic usability
 
-- [ ] As a user I want to see a clear title for the website and a logo.
+- [ ] As a user I want to see a clear title for the website.
 
   - There is a title with name of the website and a logo.
 
@@ -35,12 +35,18 @@
 
 - [ ] As a user I want to have a section with extra information and links about
       trees.
+
   - there is a side bar with links to extra information about trees.
+
+- [ ] As a user I want to see a related logo next to tile
+  - there is logo that reflects the website's content
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
+- [ ] As a user I wan to see an interactive logo
+  - there is a sort of animation to logo to make it interesting.
 - [ ] As a user I want to be able to print important articles to share it with
       others.
   - there is a print button in top of articles.
