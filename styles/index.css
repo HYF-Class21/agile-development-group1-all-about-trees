@@ -27,3 +27,15 @@
 }
 
 /* footer section style END */
+
+/* header section style START */
+
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+/* header section style END */
