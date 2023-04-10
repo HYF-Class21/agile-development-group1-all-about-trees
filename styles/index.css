@@ -11,11 +11,19 @@
 
 /* main section style END  */
 
+
 /* navbar style START */
 .top-divider {
   border-style: solid none none none;
+
+.bottom-divider {
+  border-style: none none solid none;
+
 }
 
+/* navbar style END */
+
+/* footer section style START */
 .spaced-items {
   display: flex;
   flex-direction: row;
@@ -25,4 +33,4 @@
   padding-bottom: 2%;
 }
 
-/* navbar style END */
+/* footer section style END */
