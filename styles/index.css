@@ -11,12 +11,15 @@
 
 /* main section style END  */
 
-/* footer section style START */
+/* navbar style START */
 
 .bottom-divider {
   border-style: none none solid none;
 }
 
+/* navbar style END */
+
+/* footer section style START */
 .spaced-items {
   display: flex;
   flex-direction: row;
