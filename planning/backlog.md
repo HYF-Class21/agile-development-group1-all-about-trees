@@ -1,55 +1,52 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+> A collection of user stories you can choose from. Stories inside each priority
+> level are not necessarily in order, it's up to your group to decide how they
+> fit into your strategy. These are also just suggestion, feel free to change
+> them or create your own!
 
 ## Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ecologist I want to see a navbar with organized and reponsive links
-      that can lead me to different pages of the website accordingly so that I
-      can easily find the information I'm looking for.
+- [ ] As a user I want to see a clear title for the website.
 
-  - _Given that the user want to be navigated to the specific information he is
-    looking for when he clicks on the navbar then a organized list of links will
-    show up._
+  - There is a title with name of the website and a logo.
 
-  - [ ] As an environmental activist I want to have share buttons at the bottom
-        of the page that link to different social medias so that I can share
-        certain information from this page to the public.
-  - _Given that the user wants to access the social media related to the site,
-    when the user clicks any of the buttons at the bottom of the page then it
-    gets redirected into one of the sites linked to it._
+- [ ] As a user I want to see a navbar with organized and responsive links that
+      can lead me to different sections of the website.
 
-  - [ ] As a forest ranger I want to have information on text so i can read more
-        about the content of the site.
-  - _Given that the user want to read information found on this site, when the
-    user opens the site it's welcomed by paragraphs on the body of the page._
+  - There is a nav nar where user can easily find the section he is looking for.
+
+- [ ] As an environmental activist I want to have access to articles and
+      reliable information about trees
+
+  - There is a main info section that contain information about trees and extra
+    links.
+
+- [ ] As a user I want to see links to social media accounts.
+
+  - There is a footer with social media accounts links so that users can get
+    extra information about trees.
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a user I want to have a site with an nice look so that I can have a
-      nice experience browsing it.
+- [ ] As a user I want to have a section with extra information and links about
+      trees.
 
-  - \_Given that the user wants an nice frontend view, when the user opens the
-    site it's welcomed by the trees images beside the title.
+  - there is a side bar with links to extra information about trees.
 
-- [ ] As a user I want to have a site with more information about trees so that
-      I can have a nice experience browsing it.
-  - \_Given that the user wants to have more information, when the user see the
-    main contain, they will find a sidebar with additional information.
+- [ ] As a user I want to see a related logo next to tile
+  - there is logo that reflects the website's content
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a user I want to have a site with an interesting look so that i can
-      have a nice experience browsing it.
-  - \_Given that the user wants an unique experience when browsing the site then
-    the images at each side of the title have animations when you hover over
-    them.
+- [ ] As a user I wan to see an interactive logo
+  - there is a sort of animation to logo to make it interesting.
+- [ ] As a user I want to be able to print important articles to share it with
+      others.
+  - there is a print button in top of articles.
