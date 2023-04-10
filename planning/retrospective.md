@@ -1,6 +1,3 @@
-correct typo on user personas
-issue links to PR
-
 # Retrospective
 
 ## Stop Doing
