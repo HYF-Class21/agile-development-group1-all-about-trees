@@ -1,6 +1,6 @@
 @import url("./something.css");
 
-/* main section style START */
+/* main section style */
 .fascinating-words {
   font-family: fantasy;
 }
@@ -9,9 +9,24 @@
   list-style-type: square;
 }
 
+/* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside */
+
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
 /* main section style END  */
 
-/* navbar style START */
+/* navbar section style START */
 
 .bottom-divider {
   border-style: none none solid none;
@@ -29,10 +44,9 @@
   padding-bottom: 2%;
 }
 
-/* footer section style END */
+/* navbar section style END */
 
-/* header section style START */
-
+/* header style */
 .centered-items {
   display: flex;
   flex-direction: row;
@@ -41,4 +55,39 @@
   padding-bottom: 2%;
 }
 
-/* header section style END */
+/* footer style */
+.top-divider {
+  border-style: solid none none none;
+}
+
+/* lgo animation. bounce image */
+
+/* https://www.developerdrive.com/8-simple-css-hover-effects/ */
+@keyframes bounce {
+  0%,
+  20%,
+  60%,
+  100% {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+
+  40% {
+    -webkit-transform: translateY(-20px);
+    transform: translateY(-20px);
+  }
+
+  80% {
+    -webkit-transform: translateY(-10px);
+    transform: translateY(-10px);
+  }
+}
+
+.bouncy-img {
+  width: 5%;
+  height: 5%;
+}
+
+.bouncy-img:hover {
+  animation: bounce 1s;
+}
