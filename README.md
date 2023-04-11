@@ -29,7 +29,7 @@
 
 ## Screenshots
 
-![Alt text](public/wireframe.png)
+![Alt text](planning/screenshot.jpg)
 
 ## Technologies
 
